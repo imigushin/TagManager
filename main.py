@@ -389,3 +389,4 @@ btn_Fig.grid(row=18, column=4, padx=5, sticky="NSEW")
 
 center_window(root, window_width, window_height)
 root.mainloop()
+
